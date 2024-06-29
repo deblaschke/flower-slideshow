@@ -2,9 +2,9 @@
 TEXAS HILL COUNTRY FLOWER PICTURE SLIDESHOW README
 --------------------------------------------------
 
-To view the slideshow, open slideshow.html in your favorite browser.  When the
-slideshow is complete (there are three standard closing credit slides at the
-end) or you've had too much, close the tab/window.
+To view the slideshow, go to https://deblaschke.github.io/flower-slideshow/
+in your favorite browser.  When the slideshow is complete (there are two standard
+closing credit slides at the end) or you've had too much, close the tab/window.
 
 Automatic slideshows have three control buttons below the pictures: previous
 slide, pause/play, and next slide.  Manual slideshows only have the previous
