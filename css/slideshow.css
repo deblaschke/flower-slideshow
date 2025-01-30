@@ -1,9 +1,13 @@
 body {
   background-image: url("../images/background.jpg");
-  background-color: #FFFFFF;
-  color: #000000;
+  background-color: #000000;
+  color: #FFFFFF;
   margin: auto;
   max-width: max-content;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center bottom;
+  background-attachment: fixed;
 }
 
 #outerTable td {
@@ -19,7 +23,7 @@ body {
   vertical-align: middle;
   display: block;
   text-wrap: wrap;
-  text-shadow: 4px 4px 4px rgba(68, 68, 68, 0.5);
+  text-shadow: 5px 5px 5px rgba(255, 255, 255, 0.5);
 }
 
 #innerTable td {
